@@ -1,0 +1,8 @@
+ tabela verdade do operador lógico OU 
+
+	P    Q = P//Q
+	
+	f    f = F
+	f    v = V
+        v    f = V
+        v    v = V

@@ -1,0 +1,5 @@
+ Tabela  verdaed do operador lógico Negação
+	
+	P   !P
+	f = V
+	v = F

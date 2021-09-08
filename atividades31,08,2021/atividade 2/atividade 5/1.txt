@@ -1,0 +1,8 @@
+   Tabela verdade do operador lógico E
+	
+	p      Q  P&&Q
+	
+	f      f   = F 
+	f      v   = F
+	v      f   = F 
+	v      v   = v

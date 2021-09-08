@@ -1,0 +1,13 @@
+
+   1= Explique a diferença entre os operadores == e ===. Dê dois exemplos.
+   2= Explique a diferença entre os operadores != e !==. Dê dois exemplos.
+
+
+
+	1(R) == : 3==A => retorne true, A==A => retorne true
+	     ===: 3===A => retorne true, 3===3 => retorne true
+	(== Compara o valor) (=== compara valor e tipo)
+
+	2(R)!= verrificando se o valor não e igual (3 != 2)
+	    !== verificando se o tipo não e igual "3" !==A => retorne true
+	
